@@ -1,0 +1,17 @@
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\bin\Debug\Area.exe
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\bin\Debug\Area.pdb
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.csprojAssemblyReference.cache
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.Form1.resources
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.Properties.Resources.resources
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.csproj.GenerateResource.cache
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.csproj.CoreCompileInputs.cache
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.exe
+D:\01作业\GIS算法基础\zuoye\参考\Area\Area\obj\x86\Debug\Area.pdb
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\obj\x86\Debug\Area.exe
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\obj\x86\Debug\Area.pdb
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\bin\Debug\Area.exe
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\bin\Debug\Area.pdb
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\obj\x86\Debug\Area.Form1.resources
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\obj\x86\Debug\Area.Properties.Resources.resources
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\obj\x86\Debug\Area.csproj.GenerateResource.Cache
+D:\Users\大二下\GIS算法基础\第5节课\Area\Area\obj\x86\Debug\Area.csprojResolveAssemblyReference.cache
